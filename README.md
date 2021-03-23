@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning ...</br>
 #### Libft
-</br>[![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Libft)](https://github.com/JaeSeoKim/badge42)</br>
+[![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Libft)](https://github.com/JaeSeoKim/badge42)</br>
 #### Netwhat
-</br>[![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/netwhat)](https://github.com/JaeSeoKim/badge42)</br>
+[![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/netwhat)](https://github.com/JaeSeoKim/badge42)</br>
 #### GNL
-</br>[![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/get_next_line)](https://github.com/JaeSeoKim/badge42)
+[![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/get_next_line)](https://github.com/JaeSeoKim/badge42)
 #### Printf
-</br>[![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/ft_printf)](https://github.com/JaeSeoKim/badge42)
+[![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/ft_printf)](https://github.com/JaeSeoKim/badge42)
 
