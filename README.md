@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 ### 🔭 I’m currently working on ...
 >#### 42 Seoul Cadet since 2020.10</br>
  [![HEOM's 42 stats](https://badge42.herokuapp.com/api/stats/heom?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+ --- --- ---
 ### 🌱 I’m currently learning ...</br>
 |name | point |
 |---|:---:|
-| # Libft | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Libft)](https://github.com/JaeSeoKim/badge42) |
+| Libft | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Libft)](https://github.com/JaeSeoKim/badge42) |
 | Netwhat | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/netwhat)](https://github.com/JaeSeoKim/badge42) |
 | GNL | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/get_next_line)](https://github.com/JaeSeoKim/badge42) |
 | Printf | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/ft_printf)](https://github.com/JaeSeoKim/badge42) |
