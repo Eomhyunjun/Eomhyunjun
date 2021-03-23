@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ***
 ### 🌱 I’m currently learning ...</br>
 
+|   |     |     |    |
 |---|:---:|:---:|---:|
 | Libft | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Libft)](https://github.com/JaeSeoKim/badge42) | Netwhat | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/netwhat)](https://github.com/JaeSeoKim/badge42) | GNL | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/get_next_line)](https://github.com/JaeSeoKim/badge42) | Printf | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/ft_printf)](https://github.com/JaeSeoKim/badge42) 
 
