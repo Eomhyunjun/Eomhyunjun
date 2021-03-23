@@ -1,4 +1,4 @@
-# Hi there I'm Hyunjun! 👋
+## Hi there I'm Hyunjun! 👋
 
 <!--
 **Eomhyunjun/Eomhyunjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ## 🔭 I’m currently working on ...
- *42 Seoul Cadet since 2020.10</br></br>
+### 🔭 I’m currently working on ...
+#### *42 Seoul Cadet since 2020.10</br></br>
  [![HEOM's 42 stats](https://badge42.herokuapp.com/api/stats/heom)](https://github.com/JaeSeoKim/badge42)
 
-## 🌱 I’m currently learning ...</br>
+### 🌱 I’m currently learning ...</br>
 Libft : [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Libft)](https://github.com/JaeSeoKim/badge42)</br>
 Netwhat : [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/netwhat)](https://github.com/JaeSeoKim/badge42)</br>
 GNL : [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/get_next_line)](https://github.com/JaeSeoKim/badge42)
