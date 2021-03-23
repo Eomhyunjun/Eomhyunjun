@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  [![HEOM's 42 stats](https://badge42.herokuapp.com/api/stats/heom?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 ### I’m currently learning ...</br>
 >##### Libft
-###### [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Libft)](https://github.com/JaeSeoKim/badge42)
+[![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Libft)](https://github.com/JaeSeoKim/badge42)
 >##### Netwhat
 [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/netwhat)](https://github.com/JaeSeoKim/badge42)
 >##### GNL
