@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ***
 ### 🌱 I’m currently learning ...</br>
 
-|  🦄  |   Project   | Summary |  link  |  point  |
-|:----:|:-----------:|:-------:|:------:|:------:|
+|  🦄  |    Project    | Summary |  link  |  point  |
+|:----:|:--------------:|:-------:|:------:|:------:|
 |  0  | Libft | `Clang` `library` | https://github.com/Eomhyunjun/libft | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Libft)](https://github.com/JaeSeoKim/badge42)
 |  1  | Netwhat | `network` `OSI protocols` `TCP/IP` | | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/netwhat)](https://github.com/JaeSeoKim/badge42)
 |     | GNL | `file descriptor` `new_line` | https://github.com/Eomhyunjun/get_next_line |[![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/get_next_line)](https://github.com/JaeSeoKim/badge42)
