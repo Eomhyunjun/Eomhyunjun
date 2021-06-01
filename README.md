@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning ...</br>
 
 |  🦄  |  Project  |  link  |  point  |
-|-----|:---------:|:----------:|:------:|
+|:-----:|:---------:|:----------:|:------:|
 |  0  | Libft |  https://github.com/Eomhyunjun/libft | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Libft)](https://github.com/JaeSeoKim/badge42)
 |  1  | Netwhat | | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/netwhat)](https://github.com/JaeSeoKim/badge42)
 |     | GNL |  https://github.com/Eomhyunjun/get_next_line |[![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/get_next_line)](https://github.com/JaeSeoKim/badge42)
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 |  2  | ft_server | https://github.com/Eomhyunjun/server | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/ft_server)](https://github.com/JaeSeoKim/badge42)
 |     | cub3d | https://github.com/Eomhyunjun/cub3d | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/cub3d)](https://github.com/JaeSeoKim/badge42)
 |     | push_swap | https://github.com/Eomhyunjun/push_swap | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/push_swap)](https://github.com/JaeSeoKim/badge42)
-| Exam Rank 03 |  | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Exam%20Rank%2003)](https://github.com/JaeSeoKim/badge42)
+|  3  | Exam Rank 03 |  | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Exam%20Rank%2003)](https://github.com/JaeSeoKim/badge42)
