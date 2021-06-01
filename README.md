@@ -20,18 +20,18 @@ Here are some ideas to get you started:
 ***
 ### 🌱 I’m currently learning ...</br>
 
-|  🦄  |    |    |    |    |    |    |    |
+|  🦄  |  Project  |  Language  |  Topics  |  link  | 
 |---|:---:|:---:|:---:|:---:|:---:|:---:|---:|
-| Libft | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Libft)](https://github.com/JaeSeoKim/badge42) | Netwhat | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/netwhat)](https://github.com/JaeSeoKim/badge42) | GNL | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/get_next_line)](https://github.com/JaeSeoKim/badge42) | Printf | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/ft_printf)](https://github.com/JaeSeoKim/badge42) 
-| Exam Rank 02 | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Exam%20Rank%2002)](https://github.com/JaeSeoKim/badge42) \
-| ft_server | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/ft_server)](https://github.com/JaeSeoKim/badge42) \
-| cub3d | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/cub3d)](https://github.com/JaeSeoKim/badge42) \
-| push_swap | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/push_swap)](https://github.com/JaeSeoKim/badge42) \
+| Libft | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Libft)](https://github.com/JaeSeoKim/badge42)
+| Netwhat | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/netwhat)](https://github.com/JaeSeoKim/badge42)
+| GNL | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/get_next_line)](https://github.com/JaeSeoKim/badge42)
+| Printf | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/ft_printf)](https://github.com/JaeSeoKim/badge42)
+| Exam Rank 02 | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Exam%20Rank%2002)](https://github.com/JaeSeoKim/badge42)
+| ft_server | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/ft_server)](https://github.com/JaeSeoKim/badge42)
+| cub3d | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/cub3d)](https://github.com/JaeSeoKim/badge42)
+| push_swap | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/push_swap)](https://github.com/JaeSeoKim/badge42)
 \
-| Exam Rank 03 | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Exam%20Rank%2003)](https://github.com/JaeSeoKim/badge42) \
-| |\
-| |\
-| |\
+| Exam Rank 03 | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Exam%20Rank%2003)](https://github.com/JaeSeoKim/badge42)
 
 Libft : https://github.com/Eomhyunjun/libft</br>
 get_next_line : https://github.com/Eomhyunjun/get_next_line</br>
