@@ -34,4 +34,6 @@ Here are some ideas to get you started:
 |  3  | Exam 03 | | | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Exam%20Rank%2003)](https://github.com/JaeSeoKim/badge42)
 |     | mini_shell | `make bash` `pipe`  `redirection` `signal` `fork` `process` | https://github.com/Eomhyunjun/minishell | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/minishell)](https://github.com/JaeSeoKim/badge42)
 
-
+***
+### 👯 
+[https://github.com/zero-to-hundred-42](https://github.com/zero-to-hundred-42)
