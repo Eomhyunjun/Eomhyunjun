@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 
 ***
 ### 👯 Experience
->2021.8.2 - 2021.8.16</br>
+> ###2021.8.2 - 2021.8.16</br>
 >MS HackaLearn Korea : https://github.com/devrel-kr/HackaLearn </br>
 >Team github : [https://github.com/zero-to-hundred-42](https://github.com/zero-to-hundred-42)
