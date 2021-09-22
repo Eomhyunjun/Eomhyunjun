@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 |   2  | Exam 02 | | | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Exam%20Rank%2002)](https://github.com/JaeSeoKim/badge42)
 |    | ft_server | `docker` `server` | https://github.com/Eomhyunjun/server | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/ft_server)](https://github.com/JaeSeoKim/badge42)
 |     | cub3d | `raycasting` `graphic design` `algorithm` | https://github.com/Eomhyunjun/cub3d | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/cub3d)](https://github.com/JaeSeoKim/badge42)
-|     | push_swap | `sort` `algorithm` | https://github.com/Eomhyunjun/push_swap | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/push_swap)](https://github.com/JaeSeoKim/badge42)
 |     | pipex | `pipe`  `redirection` `fork` `process` | https://github.com/Eomhyunjun/pipex | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/pipex)](https://github.com/JaeSeoKim/badge42)
 |  3  | Exam 03 | | | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Exam%20Rank%2003)](https://github.com/JaeSeoKim/badge42)
 |     | mini_shell | `make bash` `pipe`  `redirection` `signal` `fork` `process` | https://github.com/Eomhyunjun/minishell | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/minishell)](https://github.com/JaeSeoKim/badge42)|
