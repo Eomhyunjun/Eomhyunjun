@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 |  3  | Exam 03 | | | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Exam%20Rank%2003)](https://github.com/JaeSeoKim/badge42)
 |     | mini_shell | `make bash` `pipe`  `redirection` `signal` `fork` `process` | https://github.com/Eomhyunjun/minishell | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/minishell)](https://github.com/JaeSeoKim/badge42)|
 |     | Philosophers | `thread` `mutex` | https://github.com/Eomhyunjun/Philosophers | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Philosophers)](https://github.com/JaeSeoKim/badge42)
-|     |  CPP Module 00 - 08 |  | https://github.com/Eomhyunjun/cpp | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/cpp-module-00)](https://github.com/JaeSeoKim/badge42)
+|     |  CPP Module 00 - 08 |  | https://github.com/Eomhyunjun/cpp | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/CPP%20Module%2000)](https://github.com/JaeSeoKim/badge42)
 
 </br>
 
