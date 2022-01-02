@@ -22,18 +22,18 @@ Here are some ideas to get you started:
 
 |  🦄  |    Project    | Summary |  link  |  point  |
 |:----:|:--------------:|:-------:|:------:|:------:|
-|  0  | Libft | `Clang` `library` | https://github.com/Eomhyunjun/libft | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Libft)](https://github.com/JaeSeoKim/badge42)
-|  1  | Netwhat | `network` `OSI protocols` `TCP/IP` | | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/netwhat)](https://github.com/JaeSeoKim/badge42)
-|     | GNL | `file descriptor` `new_line` | https://github.com/Eomhyunjun/get_next_line |[![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/get_next_line)](https://github.com/JaeSeoKim/badge42)
-|     | Printf | `make printf` | https://github.com/Eomhyunjun/ft_printf | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/ft_printf)](https://github.com/JaeSeoKim/badge42)
-|   2  | Exam 02 | | | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Exam%20Rank%2002)](https://github.com/JaeSeoKim/badge42)
-|    | ft_server | `docker` `server` | https://github.com/Eomhyunjun/server | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/ft_server)](https://github.com/JaeSeoKim/badge42)
-|     | cub3d | `raycasting` `graphic design` `algorithm` | https://github.com/Eomhyunjun/cub3d | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/cub3d)](https://github.com/JaeSeoKim/badge42)
-|     | pipex | `pipe`  `redirection` `fork` `process` | https://github.com/Eomhyunjun/pipex | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/pipex)](https://github.com/JaeSeoKim/badge42)
-|  3  | Exam 03 | | | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Exam%20Rank%2003)](https://github.com/JaeSeoKim/badge42)
-|     | mini_shell | `make bash` `pipe`  `redirection` `signal` `fork` `process` | https://github.com/Eomhyunjun/minishell | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/minishell)](https://github.com/JaeSeoKim/badge42)|
-|     | Philosophers | `thread` `mutex` | https://github.com/Eomhyunjun/Philosophers | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/Philosophers)](https://github.com/JaeSeoKim/badge42)
-|     |  CPP Module 00-08 |  | https://github.com/Eomhyunjun/cpp | [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/CPP%20Module%2000)](https://github.com/JaeSeoKim/badge42) [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/CPP%20Module%2001)](https://github.com/JaeSeoKim/badge42) [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/CPP%20Module%2002)](https://github.com/JaeSeoKim/badge42) [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/CPP%20Module%2003)](https://github.com/JaeSeoKim/badge42) [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/CPP%20Module%2004)](https://github.com/JaeSeoKim/badge42) [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/CPP%20Module%2005)](https://github.com/JaeSeoKim/badge42) [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/CPP%20Module%2006)](https://github.com/JaeSeoKim/badge42) [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/CPP%20Module%2007)](https://github.com/JaeSeoKim/badge42) [![HEOM's 42Project Score](https://badge42.herokuapp.com/api/project/heom/CPP%20Module%2008)](https://github.com/JaeSeoKim/badge42)
+|  0  | Libft | `Clang` `library` | https://github.com/Eomhyunjun/libft | [X]
+|  1  | Netwhat | `network` `OSI protocols` `TCP/IP` | | [X]
+|     | GNL | `file descriptor` `new_line` | https://github.com/Eomhyunjun/get_next_line |[X]
+|     | Printf | `make printf` | https://github.com/Eomhyunjun/ft_printf | [X]
+|   2  | Exam 02 | | | [X]
+|    | ft_server | `docker` `server` | https://github.com/Eomhyunjun/server | [X]
+|     | cub3d | `raycasting` `graphic design` `algorithm` | https://github.com/Eomhyunjun/cub3d | [X]
+|     | pipex | `pipe`  `redirection` `fork` `process` | https://github.com/Eomhyunjun/pipex | [X]
+|  3  | Exam 03 | | | [ ]
+|     | mini_shell | `make bash` `pipe`  `redirection` `signal` `fork` `process` | https://github.com/Eomhyunjun/minishell | [X]
+|     | Philosophers | `thread` `mutex` | https://github.com/Eomhyunjun/Philosophers | [X]
+|     |  CPP Module 00-08 |  | https://github.com/Eomhyunjun/cpp | [ ]
 
 </br>
 
