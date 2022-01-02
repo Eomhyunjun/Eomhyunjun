@@ -20,20 +20,20 @@ Here are some ideas to get you started:
 ***
 ### 🌱 I’m currently learning ...</br>
 
-|  🦄  |    Project    | Summary |  link  |  point  |
+|  🦄  |    Project    | Summary |  Link  |  Finished  |
 |:----:|:--------------:|:-------:|:------:|:------:|
-|  0  | Libft | `Clang` `library` | https://github.com/Eomhyunjun/libft | [X]
-|  1  | Netwhat | `network` `OSI protocols` `TCP/IP` | | [X]
-|     | GNL | `file descriptor` `new_line` | https://github.com/Eomhyunjun/get_next_line |[X]
-|     | Printf | `make printf` | https://github.com/Eomhyunjun/ft_printf | [X]
-|   2  | Exam 02 | | | [X]
-|    | ft_server | `docker` `server` | https://github.com/Eomhyunjun/server | [X]
-|     | cub3d | `raycasting` `graphic design` `algorithm` | https://github.com/Eomhyunjun/cub3d | [X]
-|     | pipex | `pipe`  `redirection` `fork` `process` | https://github.com/Eomhyunjun/pipex | [X]
-|  3  | Exam 03 | | | [ ]
-|     | mini_shell | `make bash` `pipe`  `redirection` `signal` `fork` `process` | https://github.com/Eomhyunjun/minishell | [X]
-|     | Philosophers | `thread` `mutex` | https://github.com/Eomhyunjun/Philosophers | [X]
-|     |  CPP Module 00-08 |  | https://github.com/Eomhyunjun/cpp | [ ]
+|  0  | Libft          | `Clang` `library` | https://github.com/Eomhyunjun/libft | ✅
+|  1  | Netwhat        | `network` `OSI protocols` `TCP/IP` | | ✅
+|     | GNL            | `file descriptor` `new_line` | https://github.com/Eomhyunjun/get_next_line |✅
+|     | Printf         | `make printf` | https://github.com/Eomhyunjun/ft_printf | ✅
+|  2  | Exam 02        | | | ✅
+|     | ft_server      | `docker` `server` | https://github.com/Eomhyunjun/server | ✅
+|     | cub3d          | `raycasting` `graphic design` `algorithm` | https://github.com/Eomhyunjun/cub3d | ✅
+|     | pipex          | `pipe`  `redirection` `fork` `process` | https://github.com/Eomhyunjun/pipex | ✅
+|  3  | Exam 03        | | | 
+|     | mini_shell     | `make bash` `pipe`  `redirection` `signal` `fork` `process` | https://github.com/Eomhyunjun/minishell | ✅
+|     | Philosophers   | `thread` `mutex` | https://github.com/Eomhyunjun/Philosophers | ✅
+|     | CPP Module     |  | https://github.com/Eomhyunjun/cpp | 
 
 </br>
 
