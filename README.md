@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 >MS HackaLearn Korea github : https://github.com/devrel-kr/HackaLearn </br>
 >Team github : [https://github.com/zero-to-hundred-42](https://github.com/zero-to-hundred-42/zero-to-hundred)
 
-#### Open project : 2021.8.27 - 2021.12.03(42내 공식 행사 종료일) - 행사 종료 이후 계속 진행 중</br>
+#### Open project : 2021.8.27 - 2021.12.03(공식 행사 종료일)
 >INNOCON 발표 영상 : [https://www.youtube.com/watch?t=15373&v=zNynKuK6wUE&feature=youtu.be](https://www.youtube.com/watch?t=15373&v=zNynKuK6wUE&feature=youtu.be) </br>
 >Team github : [https://github.com/Mapps-unit](https://github.com/Mapps-unit)</br>
