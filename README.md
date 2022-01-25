@@ -44,10 +44,11 @@ Here are some ideas to get you started:
 #### MS HackaLearn Korea : 2021.08.2 - 2021.08.16</br>
 >MS HackaLearn Korea github : https://github.com/devrel-kr/HackaLearn </br>
 >Team github : [https://github.com/zero-to-hundred-42](https://github.com/zero-to-hundred-42/zero-to-hundred)
-
-#### Open project : 2021.08.27 - 2021.12.03
->INNOCON 발표 영상 : [https://www.youtube.com/watch?t=15373&v=zNynKuK6wUE&feature=youtu.be](https://www.youtube.com/watch?t=15373&v=zNynKuK6wUE&feature=youtu.be) </br>
+</br>
 
 
-#### Mapps Onit : 2021.08.27 ~
->Team github : [https://github.com/Mapps-unit](https://github.com/Mapps-unit)</br>
+
+
+#### Mapps Onit : 2021.08.27 ~ ing
+>Team github : [https://github.com/Mapps-unit](https://github.com/Mapps-unit)
+- ###### 42Open project : [INNOCON 발표 영상](https://www.youtube.com/watch?t=15373&v=zNynKuK6wUE&feature=youtu.be) | 2021.08.27 - 2021.12.03 </br>
