@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 |  3  | Exam 03        | | | 
 |     | mini_shell     | `make bash` `pipe`  `redirection` `signal` `fork` `process` | https://github.com/Eomhyunjun/minishell | ✅
 |     | Philosophers   | `thread` `mutex` | https://github.com/Eomhyunjun/Philosophers | ✅
-|     | CPP Module     |  | https://github.com/Eomhyunjun/cpp | ✅
+|     | CPP Module     | `cpp` | https://github.com/Eomhyunjun/cpp | ✅
 |  4  | Webserv     |  |  | 
 
 
