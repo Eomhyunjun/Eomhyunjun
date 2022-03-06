@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 -->
 ### 🔭 I’m currently working on ...
 >#### 42 Seoul Cadet since 2020.10</br>
-
-***
-### 🌱 I’m currently learning ...</br>
-
 |  🦄  |    Project    | Summary |  Link  |  Finished  |
 |:----:|:--------------:|:-------:|:------:|:------:|
 |  0  | Libft          | `Clang` `library` | https://github.com/Eomhyunjun/libft | ✅
