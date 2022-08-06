@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 |     | Philosophers     | `thread` `mutex` | https://github.com/Eomhyunjun/Philosophers | ✅
 |     | CPP Module       | `cpp` | https://github.com/Eomhyunjun/cpp | ✅
 |  4  | Exam 04          | `micro_shell` |  | ✅
-|  4  | Webserv          | `web server` `http1.1` `nginx` | https://github.com/42Mginx | ✅
-|  4  | Inception        | `docker-compose` | https://github.com/Eomhyunjun/inception |
-|  4  | ft_containers    |  |  |
+|     | Webserv          | `web server` `http1.1` `nginx` | https://github.com/42Mginx | ✅
+|     | Inception        | `docker-compose` | https://github.com/Eomhyunjun/inception |
+|     | ft_containers    |  |  |
 |  5  | Exam 05          |  |  | 
-|  5  | ft_transcendence |  |  | 
+|     | ft_transcendence |  |  | 
 |  inner end  | Exam 06  |  |  | 
 
 
