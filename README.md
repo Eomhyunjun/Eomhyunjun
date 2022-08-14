@@ -15,8 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🔭 I’m currently working on ...
->#### 42 Seoul Cadet since 2020.10</br>
+## education
+
+<details>
+<summary>
+
+#### 42 Seoul Cadet since: 2020.10 ~ ing </br>
+
+</summary>
+<div markdown="1">
+
 |  🦄  |    Project    | Summary |  Link  |  Finished  |
 |:----:|:--------------:|:-------:|:------:|:------:|
 |  0  | Libft            | `Clang` `library` | https://github.com/Eomhyunjun/libft | ✅
@@ -33,12 +41,14 @@ Here are some ideas to get you started:
 |     | CPP Module       | `cpp` | https://github.com/Eomhyunjun/cpp | ✅
 |  4  | Exam 04          | `micro_shell` |  | ✅
 |     | Webserv          | `web server` `http1.1` `nginx` | https://github.com/42Mginx | ✅
-|     | Inception        | `docker-compose` | https://github.com/Eomhyunjun/inception |
+|     | Inception        | `docker-compose` | https://github.com/Eomhyunjun/inception | ✅
 |     | ft_containers    |  |  |
 |  5  | Exam 05          |  |  | 
 |     | ft_transcendence |  |  | 
 |  inner end  | Exam 06  |  |  | 
 
+</div>
+</details>
 
 
 </br>
