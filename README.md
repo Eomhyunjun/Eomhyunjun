@@ -16,12 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🔭 Education
-
+#### 42Seoul Cadet : 2020.10 ~ ing
 <details>
 <summary>
-
-#### 42 Seoul Cadet since: 2020.10 ~ ing </br>
-
+자세히 보기
 </summary>
 <div markdown="1">
 
