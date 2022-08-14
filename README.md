@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 ***
 ### 👯 Experience
 #### MS HackaLearn Korea : 2021.08.2 - 2021.08.16</br>
+코로나 긴급 문자 아카이빙 서비스
 >MS HackaLearn Korea github : https://github.com/devrel-kr/HackaLearn </br>
 >Team github : [https://github.com/zero-to-hundred-42](https://github.com/zero-to-hundred-42/zero-to-hundred)
 </br>
@@ -54,5 +55,12 @@ Here are some ideas to get you started:
 
 
 #### Mapps Onit : 2021.08.27 ~ ing
+신진작가를 위한 퍼스널 브랜딩 플랫폼
 >Team github : [https://github.com/Mapps-unit](https://github.com/Mapps-unit)
 - ###### 42Open project : [INNOCON 발표 영상](https://www.youtube.com/watch?t=15373&v=zNynKuK6wUE&feature=youtu.be) | 2021.08.27 - 2021.12.03 </br>
+
+
+
+### BlogForMe : 2022.08.14 ~ ing
+나를 위한 블로그 만들기
+>github: [https://github.com/Eomhyunjun/BlogForMe](https://github.com/Eomhyunjun/BlogForMe)
