@@ -71,6 +71,6 @@ Here are some ideas to get you started:
 
 
 #### BlogForMe : 2022.08.14 ~ ing
-나를 위한 블로그 만들기
+내가 쓸 블로그 만들기
 >github: [https://github.com/Eomhyunjun/BlogForMe](https://github.com/Eomhyunjun/BlogForMe)
 </br>
