@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 |  4  | Exam 04          | `micro_shell` |  | ✅
 |     | Webserv          | `web server` `http1.1` `nginx` | https://github.com/42Mginx | ✅
 |     | Inception        | `docker-compose` | https://github.com/Eomhyunjun/inception | ✅
-|     | ft_containers    |  |  |
+|     | ft_containers    |  |  |✅ 
 |  5  | Exam 05          | `cpp example` |  | ✅ | 
-|     | ft_transcendence | `Typescript` `Next.js` `WebSocket` `PongGame` |  | 
-|  inner end  | Exam 06  |  |  | 
+|     | ft_transcendence | `Typescript` `Next.js` `WebSocket` `PongGame` |  | ✅ 
+|  inner end  | Exam 06  |  |  | ✅ 
 
 </div>
 </details>
