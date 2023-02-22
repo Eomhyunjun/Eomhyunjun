@@ -50,11 +50,3 @@ Here are some ideas to get you started:
 
 
 </br>
-
-
-
-#### Mapps Onit : 2021.08.27 ~ ing
-신진작가를 위한 퍼스널 브랜딩 플랫폼
->Team github : [https://github.com/Mapps-unit](https://github.com/Mapps-unit)
-- ###### 42Open project : [INNOCON 발표 영상](https://www.youtube.com/watch?t=15373&v=zNynKuK6wUE&feature=youtu.be) | 2021.08.27 - 2021.12.03
-</br>
