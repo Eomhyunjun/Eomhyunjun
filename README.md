@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🔭 Education
-#### 42Seoul Cadet : 2020.10 ~ ing
-<details>
-<summary>
-자세히 보기
-</summary>
+- #### 42Seoul Cadet : 2020.10 ~ 2022.10
+<ul>
+<details><summary>자세히 보기</summary>
 <div markdown="1">
 
 |  🦄  |    Project    | Summary |  Link  |  Finished  |
@@ -44,9 +42,8 @@ Here are some ideas to get you started:
 |  5  | Exam 05          | `cpp example` |  | ✅ | 
 |     | ft_transcendence | `Typescript` `Next.js` `WebSocket` `PongGame` |  | ✅ 
 |  inner end  | Exam 06  |  |  | ✅ 
-
 </div>
 </details>
-
+</ul>
 
 </br>
